@@ -1,0 +1,274 @@
+.upper-container
+{
+  background-color:  #7B8FA1;
+  background-image:url("https://altcampus.github.io/training-studio/assets/media/cta-bg.jpg");
+
+
+}
+.navbar
+{
+  margin-top: 0;
+  position:absolute;
+  right: 30px;
+  font-size: 1px;
+    color: white;
+    font-family: 'Merriweather', serif;
+
+}
+
+.home
+{
+  color: orange;
+  margin-left: 10px;
+  margin-right: 13px;
+}
+.home:hover
+{
+  color: white;
+}
+.about
+{
+  margin-left: 10px;
+  margin-right: 13px;
+}
+.about:hover
+{
+  color: orange;
+}
+
+.classes
+{
+  margin-left: 10px;
+  margin-right: 13px;
+}
+.classes:hover
+{
+  color: orange;
+}
+
+.schedule
+{
+  margin-left: 10px;
+  margin-right: 13px;
+}
+.schedule:hover
+{
+  color: orange;
+}
+.signup
+{
+  color:orange;
+  margin-left: 10px;
+  margin-right: 13px;
+}
+.signup:hover
+{
+  color: white;
+}
+span
+{
+  margin-top: 0;
+  font-weight:normal;
+  font-size: 15px;
+}
+.tag
+{
+
+  font-style: normal;
+  font-family: 'Merriweather', serif;
+  font-weight: bold;
+  font-variant: normal;
+  margin-left: 100px;
+  margin-top: 0;
+  margin-bottom: 0;
+  padding-top: 10px;
+  font-size: 30px;
+  color: white  ;
+}
+
+.gym-img
+{
+  height: 50%;
+  width: 50%;
+  margin-top: 50px;
+  margin-left: 350px;
+
+}
+.stdio
+{
+  color: orange;
+  font-family: 'Merriweather', serif;
+}
+h1
+{
+  font-style: normal;
+  font-weight: bold;
+  font-family: 'Merriweather', serif;
+  font-size: 50px;
+}
+
+h3
+{
+  font-size: 25px;
+  color: white;
+  font-weight: bold;
+  font-family: 'Montserrat', sans-serif;
+  margin-top: 0;
+}
+.up-con
+{
+  text-align: center;
+  padding-top: 100px;
+  color: white;
+
+
+}
+
+.btn {
+  margin-top: 0;
+  position:absolute;
+  margin-left: 550px;
+  text-align: center;
+  height: 20PX;
+  width: 200px;
+  -webkit-border-radius: 18;
+  -moz-border-radius:   18;
+  border-radius: 18px;
+  font-family: 'Merriweather', serif;
+  color: bLACK;
+  font-size: 17px;
+  padding: 10px;
+  background: #f77d20;
+  text-decoration: none;
+}
+
+.btn:hover {
+  background: #e2e7eb;
+  background-image: -webkit-linear-gradient(top, #e2e7eb, white);
+  background-image: -moz-linear-gradient(top, #e2e7eb, white);
+  background-image: -ms-linear-gradient(top, #e2e7eb, white);
+  background-image: -o-linear-gradient(top, #e2e7eb, white);
+  background-image: linear-gradient(to bottom, #e2e7eb, white);
+  text-decoration: none;
+}
+
+
+
+.second-container
+{
+  margin-top: 50px;
+  font-family: 'Merriweather', serif;
+  text-align:center;
+}
+.program
+{
+  color: orange;
+}
+.dumbl
+{
+  float: left;
+}
+.table
+{
+  text-align:center;
+  margin:100px auto 100px auto;
+}
+
+
+.third-container
+{
+  margin-top: 50px;
+  background-image:url("https://altcampus.github.io/training-studio/assets/media/cta-bg.jpg");
+  text-align: center;
+  color: white;
+  position: relative;
+}
+
+.thrd-cont
+{
+  padding-top: 70px;
+  padding-bottom: 90px;
+}
+
+.str
+{
+  margin-left: 10px;
+  margin-right: 10px;
+  font-family: 'Merriweather', serif;
+  color: orange;
+}
+
+.fourth-container
+{
+  text-align: center;
+    margin-top: 50px;
+    font-family: 'Merriweather', serif;
+}
+
+.schedule-table
+{
+  background-image: url("https://altcampus.github.io/training-studio/assets/media/schedule-bg.jpg");
+  margin:50px auto 10px auto;
+  color: white;
+}
+
+.days
+{
+  color: white;
+  background-image: url("https://altcampus.github.io/training-studio/assets/media/schedule-bg.jpg");
+  height: 25%;
+  width: 25%;
+  margin: 50px auto 10px auto;
+
+}
+.fifth-container
+{
+  text-align: center;
+  margin-top: 50px;
+  font-family: 'Merriweather', serif;
+
+}
+
+
+.expert-table
+{
+  font-family: 'Merriweather', serif;
+  background-image: url("https://altcampus.github.io/training-studio/assets/media/schedule-bg.jpg");
+  margin: 100px auto 20px auto;
+  color: white;
+}
+
+.name
+{
+  font-family: 'Merriweather', serif;
+  color: white;
+}
+
+
+.sixth-container
+{
+  margin-top: 100px;
+  font-family: 'Merriweather', serif;
+
+  text-align: center;
+  background-image: url("https://altcampus.github.io/training-studio/assets/media/schedule-bg.jpg");
+  color: white;
+}
+.formm
+{
+  margin: 50px auto 30px auto;
+  text-align: center;
+  padding-bottom: 30px;
+}
+
+.form-table
+{
+  margin: 50px auto 50px auto;
+}
+
+
+.bottom-navbar
+{
+  font-family: 'Merriweather', serif;
+  text-align: center;
+}
